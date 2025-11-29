@@ -8,6 +8,6 @@ Common Error: "unet missing: ['norm_final.weight']"
 Image will still generate.
 
 Goto https://huggingface.co/Tongyi-MAI/Z-Image-Turbo 
-Merge their Transformer files into 1 file.
+Merge their Transformer files into 1 file. (You need at Least 32GB of CPU Ram to merge)
 
 Load this Safetensor and Enjoy.

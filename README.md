@@ -1,5 +1,7 @@
 # ComfyUI_Z-Image_FP32
 
+ComfyUI ***VERSION 3.75***
+
 THIS IS A BETA MOD, DO AT YOUR OWN RISK.
 
 Backup your orginal "supported_models.py" at "ComfyUI\comfy"

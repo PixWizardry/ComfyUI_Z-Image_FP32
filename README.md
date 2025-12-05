@@ -3,6 +3,8 @@
 **Note:** The Z-Image transformer is FP32. This method uses a modified script from ComfyUI with QKV mappings. It does **not** modify `supported_models.py`.
 *FP32 may be overkill for some setups.*
 
+Comfy's script "https://huggingface.co/Comfy-Org/z_image_turbo/blob/main/z_image_convert_original_to_comfy.py"
+
 ## Prerequisites
 *   **System RAM:** Ensure you have at least **32GB of System RAM**, as you will be processing a massive 24GB FP32 model.
 

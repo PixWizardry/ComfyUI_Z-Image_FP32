@@ -1,6 +1,6 @@
 # ComfyUI_Z-Image_FP32
 
-ComfyUI ***VERSION 3.75***
+Mod is for ComfyUI ***VERSION 3.75***. You could try it on new or older version but be warn, it could fail.
 
 THIS IS A BETA MOD, DO AT YOUR OWN RISK.
 

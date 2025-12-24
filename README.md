@@ -1,4 +1,5 @@
 # Z-Image Transformer Setup for ComfyUI
+This was built using ComfyUI Github version. Not desktop, portable, or cloud.
 
 **Note:** The Z-Image transformer is FP32. This method uses a modified script from ComfyUI with QKV mappings. It does **not** modify `supported_models.py`.
 *FP32 may be overkill for some setups.*
@@ -39,6 +40,7 @@ python Z-Image_convert_and_merge.py Z-Image_FP32.safetensors diffusion_pytorch_m
 ---
 
 ## Method 2: Legacy Method (Modifies Core Files)
+This was built using ComfyUI Github version. Not desktop, portable, or cloud.
 
 > **WARNING:** THIS IS A BETA MOD. DO IT AT YOUR OWN RISK.
 > This mod is designed for ComfyUI **Version 3.75**. It may fail on newer or older versions.

@@ -1,3 +1,5 @@
+Update - Link for Z-Image Supervised FineTune Model in FP32 [Link](https://huggingface.co/PixWizardry/Z-image_Supervised_FineTune_FP32)
+
 # Z-Image Transformer Setup for ComfyUI
 This was built using ComfyUI Github version. Not desktop, portable, or cloud.
 
